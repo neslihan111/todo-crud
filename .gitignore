@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+desktop.ini
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
